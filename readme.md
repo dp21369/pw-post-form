@@ -1,4 +1,4 @@
-#Password Protected Post form on full page
+# Password Protected Post form on full page
 
 This function removed all the content of the page/post so that the password input form is only shown and once the correct password is entered it will redirect to the page/post content.
 
