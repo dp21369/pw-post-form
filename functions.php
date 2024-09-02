@@ -1,3 +1,4 @@
+<?php 
 function add_password_protection_script() {
   if (post_password_required()) {
       ?>
